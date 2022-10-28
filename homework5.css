@@ -1,0 +1,36 @@
+.ft-size {
+    font-size: 100px;
+    margin-left: 550px;
+    margin-top: 10px;
+}
+
+.p {
+    margin-left: 550px;
+    margin-top: 5px;
+}
+
+.arama {
+    margin-left: 520px;
+  }
+
+.sol {
+    background-color: aqua;
+    margin-left: 70px;
+    margin-right: 1000px;
+    height: 93px;
+}
+
+.writes {
+    margin-left: 90px;
+}
+
+.orta {
+    background-color: darkturquoise;
+    margin-left: 520px;
+    margin-top: 0px;
+    margin-right: 550px;
+}
+
+.writes2 {
+    margin-left: 521px;
+}
